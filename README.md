@@ -2,6 +2,7 @@
 The Google Data Analytics Professional Certificate is a comprehensive eight-part program designed to equip learners with the essential skills and knowledge required
 to succeed in the field of data analytics. This course provides hands-on experience with tools like spreadsheets, SQL, R, and Tableau, and covers the complete data analysis
 process, from data collection to visualization and reporting.
+- https://www.coursera.org/professional-certificates/google-data-analytics
 ## Course Structure
 ### 1. Foundations: Data, Data, Everywhere
 - Introduction to the data analytics field.
