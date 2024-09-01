@@ -50,13 +50,15 @@ process, from data collection to visualization and reporting.
         - From issue to action: The six data analysis phases
         - The data process works
         - Test your knowledge on taking action with data
-     - #### Solve problems with data
+          ![Screenshot 2024-09-02 003219](https://github.com/user-attachments/assets/99fe2874-3f09-40a0-b102-719316cc10c5)
+    - #### Solve problems with data
         - Common problem types
         - Six problem types
         - Continue exploring business applications
         - Name the problem type
         - From hypothesis to outocme
         - Test your knowledge on solving problems with data
+          ![Screenshot 2024-09-02 003744](https://github.com/user-attachments/assets/1283afd8-5b29-49a8-b971-e683d1179631)
      - #### Craft effective questions
         - SMART questions
         - More about SMART questions
@@ -65,6 +67,7 @@ process, from data collection to visualization and reporting.
         - Ask your own SMART questions
         - What your questions revealed
         - Test your knowledge on crafting effective questions
+          ![Screenshot 2024-09-02 004512](https://github.com/user-attachments/assets/00afe47b-acce-45d7-982f-01ee597df643)
       - #### Module 1 challenge
          - Glossary Terms from module 1
          - Module 1 challenge
