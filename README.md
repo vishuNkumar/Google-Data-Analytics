@@ -37,3 +37,34 @@ process, from data collection to visualization and reporting.
 - Visualize data effectively to communicate findings to stakeholders.
 - Use industry-standard tools like SQL, R, and Tableau to manage and analyze data.
 - Present data-driven insights in a clear and actionable manner.
+## Learning So Far...
+- ### Week 1
+  - ### Module 1
+     - #### Problem solving and effective questionong
+        - Intro. to problem solving and effective questioning
+        - Course 2 overview: Set your expectations
+        - Refresh: Google Data Analytics Cerrtificate Roadmape
+        - Evaluate your current data analytics skills
+     - #### Take action with data
+        - Data in action
+        - From issue to action: The six data analysis phases
+        - The data process works
+        - Test your knowledge on taking action with data
+     - #### Solve problems with data
+        - Common problem types
+        - Six problem types
+        - Continue exploring business applications
+        - Name the problem type
+        - From hypothesis to outocme
+        - Test your knowledge on solving problems with data
+     - #### Craft effective questions
+        - SMART questions
+        - More about SMART questions
+        - Prctice working SMART
+        - Data open doorss
+        - Ask your own SMART questions
+        - What your questions revealed
+        - Test your knowledge on crafting effective questions
+      - #### Module 1 challenge
+         - Glossary Terms from module 1
+         - Module 1 challenge
