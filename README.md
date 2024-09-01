@@ -38,7 +38,10 @@ process, from data collection to visualization and reporting.
 - Use industry-standard tools like SQL, R, and Tableau to manage and analyze data.
 - Present data-driven insights in a clear and actionable manner.
 ## Learning So Far...
-- ### Week 1
+- ### Week 1 : Foundations: Data, Data, Everywhere
+  - ### Module 1
+     - 
+- ### Week 2
   - ### Module 1
      - #### Problem solving and effective questionong
         - Intro. to problem solving and effective questioning
